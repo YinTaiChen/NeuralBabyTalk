@@ -3,7 +3,15 @@
 ![teaser results](demo/img1.png)
 
 ## Papers
+
+- [Faster r-cnn: Towards real-time object detection with region proposal networks](https://arxiv.org/pdf/1506.01497.pdf)
+- [Deep captioning with multimodal recurrent neural networks (m-rnn)](https://arxiv.org/pdf/1412.6632.pdf)
+- [Show and tell: A neural image caption generator](https://arxiv.org/pdf/1411.4555.pdf)
+- [Self-critical Sequence Training for Image Captioning](https://arxiv.org/pdf/1612.00563.pdf)
 - [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
+- [Knowing When to Look: Adpative Attention Via A Visual Sentinel for Image Captioning](https://arxiv.org/pdf/1612.01887.pdf)
+- Long short-term memory
+- [Glove: Global vectors for word representation](https://www.aclweb.org/anthology/D14-1162)
 
 ## requirement
 
