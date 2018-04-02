@@ -2,6 +2,9 @@
 
 ![teaser results](demo/img1.png)
 
+## Papers
+- [Pointer Networks](https://arxiv.org/pdf/1506.03134.pdf)
+
 ## requirement
 
 Inference:
